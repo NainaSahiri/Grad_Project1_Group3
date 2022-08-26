@@ -32,3 +32,7 @@ This is Anjana Thanguturi. I am currently pursuing Masters in Applied Computer S
 - 👯 I’m looking to collaborate on any application development
 - 📫 How to reach me: s546941@nwmissouri.edu
 - ⚡ Fun fact: Watching Thriller movies, exploring places.
+
+My GitHub link: https://github.com/AnjanaThanguturi
+
+**************************************************************************************************
