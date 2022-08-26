@@ -23,3 +23,12 @@ Hi there 👋
 My GitHub link: https://github.com/srujan0403
 
 **************************************************************************************************
+
+### Anjana Thanguturi<br>
+Hi there 👋
+This is Anjana Thanguturi. I am currently pursuing Masters in Applied Computer Science at Northwest Missouri State University, Maryville, MO. Here is the link to know more about me - AboutMe
+
+- 🌱 I’m currently learning Mobile Computing IOS, Patterns and Frameworks and Graduate Direct Project-1.
+- 👯 I’m looking to collaborate on any application development
+- 📫 How to reach me: s546941@nwmissouri.edu
+- ⚡ Fun fact: Watching Thriller movies, exploring places.
