@@ -48,3 +48,11 @@ My GitHub link: https://github.com/AnjanaThanguturi
 My GitHub link: https://github.com/MadhupriyaGundeti
 
 **************************************************************************************************
+
+### Sindhuja Vilipala<br>
+Hi there 👋
+- I’m Sindhuja
+- I’m currently pursuing my Masters Program
+- I’m interested in programming
+- My Hobbies are Reading Books,Playing,Singing
+- 📫 You can reach me through S546823@nwmissouri.edu
