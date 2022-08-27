@@ -1,5 +1,15 @@
 # Grad_Project1_Group3
 
+## Speaking Calculator
+
+#### Project Objective:
+The main objective of this project is to develop a speaking calculator which is mainly helpful for the physically challenged people.
+
+
+
+
+**************************************************************************************************
+
 ### Naina Sahiri<br>
 Hi there 👋
 - 🔭 I’m pursuing Masters in Computer Science
