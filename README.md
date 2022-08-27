@@ -16,11 +16,11 @@ Assistant Professor, Applied Computer Science<br>
 Northwest Missouri State University
 
 #### Team Members:
-Naina Sahiri
-Madhupriya Gundeti
-Anjana Thanguturi
-Srujan Kumar Reddy Yeruva
-Sindhuja Vilipala
+Naina Sahiri<br>
+Madhupriya Gundeti<br>
+Anjana Thanguturi<br>
+Srujan Kumar Reddy Yeruva<br>
+Sindhuja Vilipala<br>
 
 **************************************************************************************************
 
