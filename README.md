@@ -22,8 +22,14 @@ Anjana Thanguturi<br>
 Srujan Kumar Reddy Yeruva<br>
 Sindhuja Vilipala<br>
 
-**************************************************************************************************
+#### Team Goals:
+- To complete the sprint tasks on time.
+- To participate in every team meeting and every individual should share there updates.
+- To communicate and collaborate effectively within the team.
+- To make the client satisfy with the deliverable.
 
+**************************************************************************************************
+## Team Bio's
 ### Naina Sahiri<br>
 Hi there 👋
 - 🔭 I’m pursuing Masters in Computer Science
