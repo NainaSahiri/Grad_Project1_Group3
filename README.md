@@ -5,7 +5,8 @@
 #### Project Objective:
 The main objective of this project is to develop a speaking calculator which is mainly helpful for the physically challenged people.
 
-
+#### Project Description:
+A Speaking Calculator accepts input from keyboard and also as voice. Once the input is entered it will ask user to confirm whether the entered details are correct or wrong. Once user confirms, based on the input it performs the mathematical operations. Mathematical expression along with result is spoken out. Planning to use Java for backend and use public libraries for voice assisstance. Later will try to develop an IOS application on the same.
 
 
 **************************************************************************************************
