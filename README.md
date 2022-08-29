@@ -28,6 +28,8 @@ Sindhuja Vilipala<br>
 - To communicate and collaborate effectively within the team.
 - To make the client satisfy with the deliverable.
 
+[wiki pages](https://github.com/NainaSahiri/Grad_Project1_Group3/wiki)
+
 **************************************************************************************************
 ## Team Bio's
 ### Naina Sahiri<br>
@@ -38,7 +40,7 @@ Hi there 👋
 - 🤔 I’m looking for help with Coding
 - 📫 How to reach me: Through email nainasahiri123@gmail.com
 
-My GitHub link: https://github.com/NainaSahiri 
+[My GitHub link](https://github.com/NainaSahiri) 
 
 **************************************************************************************************
 
@@ -50,7 +52,7 @@ Hi there 👋
 - 🤔I would love to write a book
 - 📫 Contact me at s546444@nwmissouri.edu
 
-My GitHub link: https://github.com/srujan0403
+[My GitHub link](https://github.com/srujan0403)
 
 **************************************************************************************************
 
@@ -63,7 +65,7 @@ This is Anjana Thanguturi. I am currently pursuing Masters in Applied Computer S
 - 📫 How to reach me: s546941@nwmissouri.edu
 - ⚡ Fun fact: Watching Thriller movies, exploring places.
 
-My GitHub link: https://github.com/AnjanaThanguturi
+[My GitHub link](https://github.com/AnjanaThanguturi)
 
 **************************************************************************************************
 
@@ -75,7 +77,7 @@ My GitHub link: https://github.com/AnjanaThanguturi
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...Through Email madhupriyareddy1919@gmail.com
 
-My GitHub link: https://github.com/MadhupriyaGundeti
+[My GitHub link](https://github.com/MadhupriyaGundeti)
 
 **************************************************************************************************
 
@@ -87,7 +89,7 @@ Hi there 👋
 - My Hobbies are Reading Books,Playing,Singing
 - 📫 You can reach me through S546823@nwmissouri.edu
 
-My GitHub link: https://github.com/SindhujaVilipala
+[My GitHub link](https://github.com/SindhujaVilipala)
 
 
 **************************************************************************************************
