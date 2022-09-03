@@ -100,5 +100,7 @@ Hi there 👋
 
 [My GitHub link](https://github.com/SindhujaVilipala)
 
+#### Achieved objectives of this week:
+As I discussed with our team members, we are going with the public Web Speech API library. And we are going to develop the app using JavaScript.
 
 **************************************************************************************************
