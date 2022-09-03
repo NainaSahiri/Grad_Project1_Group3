@@ -9,7 +9,8 @@ The main objective of this project is to develop a speaking calculator which is 
 A Speaking Calculator accepts input from keyboard and also as voice. Once the input is entered it will ask user to confirm whether the entered details are correct or
 wrong. Once user confirms, based on the input it performs the mathematical operations. Mathematical expression along with result is spoken out. Planning to use Java
 for backend and use public libraries for voice assisstance. Later will try to develop an IOS application on the same.
-
+#### Project Details:
+We are going to develop a web application using the public library Web Speech API.
 #### Client:
 Dr. ChandraMouli Kotteti<br>
 Assistant Professor, Applied Computer Science<br>
@@ -36,7 +37,7 @@ Sindhuja Vilipala<br>
 - capable of doing both simple and complex calculations.
 - Simple and complex computations can be made verbally.
 - A free talking calculator app that is effective.
-
+ 
 
 **************************************************************************************************
 ## Team Bio's
