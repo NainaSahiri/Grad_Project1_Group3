@@ -8,3 +8,4 @@ Designed prototype and discussed about that in client meeting. Need to do the up
 
 ###### Sindhuja Vilipala
 I designed a prototype and discussed it with team members and with the professor. With the prototype, I need to do some changes as per the professor’s suggestion.<br>
+![Second prototype](Vilipala_Prototype.PNG)
