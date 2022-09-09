@@ -13,5 +13,5 @@ I designed a prototype and discussed it with team members and with the professor
 ###### Srujan Kumar Reddy Yeruva
 Have designed the UI layout for the protoypes and discussed the same with professor. Work on DB schemas which is planned for next week.
 <br>
-
+![Third_Prototype](Yeruva_Prototype.PNG)
 
