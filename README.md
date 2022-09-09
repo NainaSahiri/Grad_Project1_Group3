@@ -31,6 +31,8 @@ Sindhuja Vilipala<br>
 
 [wiki pages](https://github.com/NainaSahiri/Grad_Project1_Group3/wiki)
 
+[Daily Updates](https://github.com/NainaSahiri/Grad_Project1_Group3/blob/main/DailyUpdates.md)
+
 #### Features of Speaking Calculator:
 - User interface that is easy to use and effective.
 - an easy-to-use multifunction calculator.
