@@ -13,7 +13,7 @@ for backend and use public libraries for voice assisstance. Later will try to de
 We are going to develop a web application using the public library Web Speech API.
 #### Client:
 Dr. ChandraMouli Kotteti<br>
-Assistant Professor, Applied Computer Science<br>
+Assistant Professor, School of Computer Science<br>
 Northwest Missouri State University
 
 #### Team Members:
