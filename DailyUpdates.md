@@ -15,3 +15,6 @@ Have designed the UI layout for the protoypes and discussed the same with profes
 <br>
 ![Third_Prototype](Yeruva_Prototype.PNG)
 
+###### Naina Sahiri
+As discussed with the client, worked on the UI design prototype and discussed about the project timelines.
+<br>
