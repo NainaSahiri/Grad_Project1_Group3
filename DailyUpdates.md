@@ -44,3 +44,6 @@ Worked to design the updated prototype with one of my team member.
 ###### Srujan Kumar Reddy Yeruva
 Faced some obstacles while working on DB schema. Discussed the same with client and found a solution.
 Also started to work on implementing Web Speech API.
+
+###### Naina Sahiri
+Assigned with task to design UI page (HTML, CSS) for Prototype. 
