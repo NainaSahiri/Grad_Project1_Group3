@@ -38,3 +38,5 @@ Actually, we designed a prototype first, but we have updated some changes in pro
 Tried to work on Database Schema but found some difficulties. After client team meeting we got a solution. 
 We also have to implement WebSeeph API sample prototype as per client request.
 
+###### Madhupriya Gundeti
+Worked to design the updated prototype with one of my team member.
