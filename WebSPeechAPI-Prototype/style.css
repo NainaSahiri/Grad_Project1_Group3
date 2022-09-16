@@ -1,0 +1,16 @@
+#btnSpeak, #btnTalk{
+    padding: 4px 4px; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    background-color: #11a1e1;
+    size: 30px;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+body{
+    text-align: center;
+    padding-top: 60px;
+    background-color: aliceblue;
+}
