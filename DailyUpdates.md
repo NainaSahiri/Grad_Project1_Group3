@@ -24,3 +24,12 @@ As discussed with the client, worked on the UI design prototype and discussed ab
 Designed the layout for prototype and we are planning to work on database schema next week.
 <br>
 ![Fifth_Prototype](PriyaPrototype.png)
+
+
+##### September 9th
+
+###### Sindhuja Vilipala
+
+Actually, we designed a prototype first, but we have updated some changes in prototype and designed a prototype. 
+<br>
+![Final prototype](https://github.com/NainaSahiri/Grad_Project1_Group3/blob/main/Vilipala_Prototype2.jpeg)
