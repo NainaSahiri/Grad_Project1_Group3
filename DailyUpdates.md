@@ -40,3 +40,7 @@ We also have to implement WebSeeph API sample prototype as per client request.
 
 ###### Madhupriya Gundeti
 Worked to design the updated prototype with one of my team member.
+
+###### Srujan Kumar Reddy Yeruva
+Faced some obstacles while working on DB schema. Discussed the same with client and found a solution.
+Also started to work on implementing Web Speech API.
