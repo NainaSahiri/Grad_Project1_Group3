@@ -26,10 +26,15 @@ Designed the layout for prototype and we are planning to work on database schema
 ![Fifth_Prototype](PriyaPrototype.png)
 
 
-##### September 9th
+##### September 12th
 
 ###### Sindhuja Vilipala
 
 Actually, we designed a prototype first, but we have updated some changes in prototype and designed a prototype. 
 <br>
 ![Final prototype](https://github.com/NainaSahiri/Grad_Project1_Group3/blob/main/Vilipala_Prototype2.jpeg)
+
+###### Anjana Thanguturi
+Tried to work on Database Schema but found some difficulties. After client team meeting we got a solution. 
+We also have to implement WebSeeph API sample prototype as per client request.
+
