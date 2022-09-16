@@ -30,6 +30,25 @@
         recognition.lang = 'en-US';
         recognition.interimResults = false;
         
+        recognition.onresult = function(event) {
+            var last = event.results.length - 1;
+            var command = event.results[last][0].transcript;
+            message.textContent = 'You spoke: '+command;
+        };
+
+        recognition.onspeechend = function() {
+            recognition.stop();
+        };
+
+        recognition.onerror = function(event) {
+            message.textContent = 'Error occurred in recognition: ' + event.error;
+        }        
+
+        document.querySelector('#btnTalk').addEventListener('click', function(){
+            recognition.start();
+
+        });
+        
          // text to speech (Speech Synthesis)
         var txtInput = document.querySelector('#txtInput');
         var btnSpeak = document.querySelector('#btnSpeak');
