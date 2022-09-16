@@ -53,3 +53,6 @@ Assigned with task to design UI page (HTML, CSS) for Prototype.
 
 ###### Anjana Thanguturi
 Worked on implementation of SpeechRecognition Interface of WebSpeech API as per client request and successfully implemented.
+
+###### Srujan Kumar Reddy Yeruva
+Worked on implementing Speech synthesis which is to translate speech from text. The code is implemented in the prototype.
