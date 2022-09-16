@@ -47,3 +47,9 @@ Also started to work on implementing Web Speech API.
 
 ###### Naina Sahiri
 Assigned with task to design UI page (HTML, CSS) for Prototype. 
+
+
+##### September 16th
+
+###### Anjana Thanguturi
+Worked on implementation of SpeechRecognition Interface of WebSpeech API as per client request and successfully implemented.
