@@ -59,3 +59,6 @@ Worked on implementing Speech synthesis which is to translate speech from text. 
 
 ###### Sindhuja Vilipala
 Worked on implementation of WebSpeech API of SpeechRecognition with one of my team member.
+
+###### Madhupriya Gundeti
+Designed a DB Schema called History table in the lucid chart with two attributes Time_Stamp and Expression.
