@@ -62,3 +62,6 @@ Worked on implementation of WebSpeech API of SpeechRecognition with one of my te
 
 ###### Madhupriya Gundeti
 Designed a DB Schema called History table in the lucid chart with two attributes Time_Stamp and Expression.
+
+###### Naina Sahiri
+I have designed the front page functionality prototype using HTML, CSS and executed.
