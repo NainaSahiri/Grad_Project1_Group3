@@ -56,3 +56,6 @@ Worked on implementation of SpeechRecognition Interface of WebSpeech API as per 
 
 ###### Srujan Kumar Reddy Yeruva
 Worked on implementing Speech synthesis which is to translate speech from text. The code is implemented in the prototype.
+
+###### Sindhuja Vilipala
+Worked on implementation of WebSpeech API of SpeechRecognition with one of my team member.
