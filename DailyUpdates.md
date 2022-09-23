@@ -80,3 +80,6 @@ Have to work on automate Speech Synthesis as welcome message. Worked on Database
 
 ###### Srujan Kumar Reddy Yeruva
 Work on implementing speech synthesis on arithmetic results. Also implement speech synthesis without button trigger.
+
+###### Naina Sahiri
+Integrating the Web Speech API prototype with the functionality of speaking voice recognition.
