@@ -67,8 +67,10 @@ Designed a DB Schema called History table in the lucid chart with two attributes
 I have designed the front page functionality prototype using HTML, CSS and executed.
 
 
-##### September 19th
+#### September 19th
 
 ###### Anjana Thanguturi
 Need to work on execution of mathematical expression based on user input using speech recognition.
 
+###### Sindhuja Vilipala
+I have planned to work on Math Expressions on Speech Recognition. I and Anjana worked on Speech Recognition i.e, speech to text, to execute math Expressions.
