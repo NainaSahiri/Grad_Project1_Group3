@@ -83,3 +83,8 @@ Work on implementing speech synthesis on arithmetic results. Also implement spee
 
 ###### Naina Sahiri
 Integrating the Web Speech API prototype with the functionality of speaking voice recognition.
+
+#### September 23rd
+
+###### Anjana Thanguturi
+Implemented code for execution of arithmetic operations based on user speech using speechRecognition. I and sindhuja still need to work on trigonometric function execution.
