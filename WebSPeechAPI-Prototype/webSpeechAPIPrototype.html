@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,6 +8,7 @@
     <link rel="stylesheet" href="style.css">
     <title>Prototype</title>
 </head>
+
 <body>
     <h2>WEB SPEECH API - PROTOTYPE</h2>
     <input id='txtInput' /> <br><br>
@@ -29,32 +31,45 @@
         recognition.grammars = speechRecognitionList;
         recognition.lang = 'en-US';
         recognition.interimResults = false;
-        
-        recognition.onresult = function(event) {
+
+        recognition.onresult = function (event) {
             var last = event.results.length - 1;
             var command = event.results[last][0].transcript;
-            message.textContent = 'You spoke: '+command;
+            message.textContent = 'You spoke: ' + command;
+
+            Math.eval = function (command) {
+                for (var i = 0; i < command.length; i++) {
+                    if (isNaN(command[i]) && !['+', '-', '/', '*', '%'].includes(command[i])) {
+                        text.value = "";
+                        text.value = command;
+                        return NaN;
+                    }
+                    else {
+                        text.value = eval(command);
+                    }
+                }
+            }
+            Math.eval(command);
         };
 
-        recognition.onspeechend = function() {
+        recognition.onspeechend = function () {
             recognition.stop();
         };
 
-        recognition.onerror = function(event) {
+        recognition.onerror = function (event) {
             message.textContent = 'Error occurred in recognition: ' + event.error;
-        }        
+        }
 
-        document.querySelector('#btnTalk').addEventListener('click', function(){
+        document.querySelector('#btnTalk').addEventListener('click', function () {
             recognition.start();
 
         });
-        
-         // text to speech (Speech Synthesis)
+
+        // text to speech (Speech Synthesis)
         var txtInput = document.querySelector('#txtInput');
         var btnSpeak = document.querySelector('#btnSpeak');
         var synth = window.speechSynthesis;
 
-        btnSpeak.addEventListener('click', ()=> {
             var toSpeak = new SpeechSynthesisUtterance(txtInput.value);
             synth.speak(toSpeak);
         });
