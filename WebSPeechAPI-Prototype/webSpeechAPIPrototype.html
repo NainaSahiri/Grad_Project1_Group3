@@ -70,6 +70,7 @@
         var btnSpeak = document.querySelector('#btnSpeak');
         var synth = window.speechSynthesis;
 
+        btnSpeak.addEventListener('click', () => {
             var toSpeak = new SpeechSynthesisUtterance(txtInput.value);
             synth.speak(toSpeak);
         });
