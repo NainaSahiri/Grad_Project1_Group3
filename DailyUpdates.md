@@ -65,3 +65,10 @@ Designed a DB Schema called History table in the lucid chart with two attributes
 
 ###### Naina Sahiri
 I have designed the front page functionality prototype using HTML, CSS and executed.
+
+
+##### September 19th
+
+###### Anjana Thanguturi
+Need to work on execution of mathematical expression based on user input using speech recognition.
+
