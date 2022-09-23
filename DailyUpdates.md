@@ -74,3 +74,6 @@ Need to work on execution of mathematical expression based on user input using s
 
 ###### Sindhuja Vilipala
 I have planned to work on Math Expressions on Speech Recognition. I and Anjana worked on Speech Recognition i.e, speech to text, to execute math Expressions.
+
+###### Madhupriya Gundeti
+Have to work on automate Speech Synthesis as welcome message. Worked on Database Schema.
