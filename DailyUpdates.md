@@ -77,3 +77,6 @@ I have planned to work on Math Expressions on Speech Recognition. I and Anjana w
 
 ###### Madhupriya Gundeti
 Have to work on automate Speech Synthesis as welcome message. Worked on Database Schema.
+
+###### Srujan Kumar Reddy Yeruva
+Work on implementing speech synthesis on arithmetic results. Also implement speech synthesis without button trigger.
