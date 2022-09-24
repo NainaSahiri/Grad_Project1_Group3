@@ -39,12 +39,15 @@
 
             Math.eval = function (command) {
                 for (var i = 0; i < command.length; i++) {
-                    if (isNaN(command[i]) && !['+', '-', '/', '*', '%'].includes(command[i])) {
+                    if (isNaN(command[i]) && !['+', '-', '/', '*', '%'].includes(command[i]) && !command.includes("sine ")) {
                         text.value = "";
                         text.value = command;
                         return NaN;
-                    }
-                    else {
+                    }else if (command.includes("sine ")) {
+                        var degree = command.substring(5, command.length);
+                        console.log(degree);
+                        text.value = Math.sin(degree * Math.PI / 180);
+                    }else {
                         text.value = eval(command);
                     }
                 }
