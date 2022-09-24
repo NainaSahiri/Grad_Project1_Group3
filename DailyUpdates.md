@@ -88,3 +88,6 @@ Integrating the Web Speech API prototype with the functionality of speaking voic
 
 ###### Anjana Thanguturi
 Implemented code for execution of arithmetic operations based on user speech using speechRecognition. I and sindhuja still need to work on trigonometric function execution.
+
+###### Srujan Kumar Reddy Yeruva
+Worked on Speech Synthesis(Text to Speech) for prototype without button trigger. Need to work around Speech Synthesis so that it works completely.
