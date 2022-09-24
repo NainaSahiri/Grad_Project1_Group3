@@ -84,6 +84,9 @@ Work on implementing speech synthesis on arithmetic results. Also implement spee
 ###### Naina Sahiri
 Integrating the Web Speech API prototype with the functionality of speaking voice recognition.
 
+###### Madhupriya Gundeti
+Planning to change oracle to sqlite as we can query directly in the browser.
+
 #### September 23rd
 
 ###### Anjana Thanguturi
