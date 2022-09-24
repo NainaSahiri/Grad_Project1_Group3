@@ -69,6 +69,12 @@
         var txtInput = document.querySelector('#txtInput');
         var btnSpeak = document.querySelector('#btnSpeak');
         var synth = window.speechSynthesis;
+        
+        setTimeout(function () {
+            console.log("Hiiiii")
+            var toSpeak = new SpeechSynthesisUtterance(txtInput.value);
+            synth.speak(toSpeak);
+        }, 8000);
 
         btnSpeak.addEventListener('click', () => {
             var toSpeak = new SpeechSynthesisUtterance(txtInput.value);
