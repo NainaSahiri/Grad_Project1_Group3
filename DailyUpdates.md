@@ -91,3 +91,6 @@ Implemented code for execution of arithmetic operations based on user speech usi
 
 ###### Srujan Kumar Reddy Yeruva
 Worked on Speech Synthesis(Text to Speech) for prototype without button trigger. Need to work around Speech Synthesis so that it works completely.
+
+###### Naina Sahiri
+Working on the SQL lite with one of the team member and need to work on Sqlite.js Javascript SQL databse
