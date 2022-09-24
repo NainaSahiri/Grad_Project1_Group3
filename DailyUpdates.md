@@ -94,3 +94,7 @@ Worked on Speech Synthesis(Text to Speech) for prototype without button trigger.
 
 ###### Naina Sahiri
 Working on the SQL lite with one of the team member and need to work on Sqlite.js Javascript SQL databse
+
+###### Sindhuja Vilipala
+Worked on sin function in trigonometric equation.
+
