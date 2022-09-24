@@ -84,6 +84,8 @@ Work on implementing speech synthesis on arithmetic results. Also implement spee
 ###### Naina Sahiri
 Integrating the Web Speech API prototype with the functionality of speaking voice recognition.
 
+#### September 21th
+
 ###### Madhupriya Gundeti
 Planning to change oracle to sqlite as we can query directly in the browser.
 
@@ -101,3 +103,5 @@ Working on the SQL lite with one of the team member and need to work on Sqlite.j
 ###### Sindhuja Vilipala
 Worked on sin function in trigonometric equation.
 
+###### Madhupriya Gundeti
+Need to work on Sqlite.js Javascript SQL databse.
