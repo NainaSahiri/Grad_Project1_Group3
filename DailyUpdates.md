@@ -89,6 +89,9 @@ Integrating the Web Speech API prototype with the functionality of speaking voic
 ###### Madhupriya Gundeti
 Planning to change oracle to sqlite as we can query directly in the browser.
 
+###### Naina Sahiri
+Combining the Web Speech API prototype's voice recognition features
+
 #### September 23rd
 
 ###### Anjana Thanguturi
