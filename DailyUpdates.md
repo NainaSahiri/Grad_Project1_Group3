@@ -123,3 +123,11 @@ Worked on implementing of trignometric functions but have to look into all funct
 
 ###### Sindhuja Vilipala
 Worked on the implementation of all the the trignometric functions but unable to execute all.
+
+
+#### September 28th
+
+###### Srujan Kumar Reddy Yeruva
+Worked on presentation for workshop. Shared newly learned topics with our fellow classmates.
+
+
