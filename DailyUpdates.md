@@ -108,3 +108,8 @@ Worked on sin function in trigonometric equation.
 
 ###### Madhupriya Gundeti
 Need to work on Sqlite.js Javascript SQL databse.
+
+#### September 26th
+
+###### Srujan Kumar Reddy Yeruva
+Worked on Speech Synthesis(Text to Speech) for prototype without button trigger. Need to work around Speech Synthesis so that it works completely
