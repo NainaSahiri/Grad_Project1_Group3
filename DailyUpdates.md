@@ -136,7 +136,7 @@ Worked on presentation for workshop. Shared newly learned topics with our fellow
 ###### Naina Sahiri
  We have done the presentation of technologies related to the project and taught topics to our class.
  
- ###### Anjana Thanguturi
+###### Anjana Thanguturi
 Worked on the presentation and done knowledge transfer about the new topics we learned with the classmates.
 
 ###### Sindhuja Vilipala
@@ -150,3 +150,5 @@ Work on Speech Synthesis without clicking any button to speak. Able to produce s
 ###### Naina Sahiri
 Learned about SQLite database connections and tried to integrate SQLite in the project.
 
+###### Anjana Thanguturi
+Need to work on recognizing the trigonometry functions. Once the functions are recognized need to work on the solutions of the expressions
