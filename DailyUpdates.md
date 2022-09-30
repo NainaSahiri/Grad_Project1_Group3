@@ -25,7 +25,7 @@ Designed the layout for prototype and we are planning to work on database schema
 <br>
 ![Fifth_Prototype](PriyaPrototype.png)
 
-
+-----------------------------------------------------------------------------------------------
 ##### September 12th
 
 ###### Sindhuja Vilipala
@@ -48,7 +48,7 @@ Also started to work on implementing Web Speech API.
 ###### Naina Sahiri
 Assigned with task to design UI page (HTML, CSS) for Prototype. 
 
-
+-----------------------------------------------------------------------------------------------
 ##### September 16th
 
 ###### Anjana Thanguturi
@@ -66,7 +66,7 @@ Designed a DB Schema called History table in the lucid chart with two attributes
 ###### Naina Sahiri
 I have designed the front page functionality prototype using HTML, CSS and executed.
 
-
+-----------------------------------------------------------------------------------------------
 #### September 19th
 
 ###### Anjana Thanguturi
@@ -84,6 +84,7 @@ Work on implementing speech synthesis on arithmetic results. Also implement spee
 ###### Naina Sahiri
 Integrating the Web Speech API prototype with the functionality of speaking voice recognition.
 
+-----------------------------------------------------------------------------------------------
 #### September 21th
 
 ###### Madhupriya Gundeti
@@ -92,6 +93,7 @@ Planning to change oracle to sqlite as we can query directly in the browser.
 ###### Naina Sahiri
 Combining the Web Speech API prototype's voice recognition features
 
+-----------------------------------------------------------------------------------------------
 #### September 23rd
 
 ###### Anjana Thanguturi
@@ -109,7 +111,12 @@ Worked on sin function in trigonometric equation.
 ###### Madhupriya Gundeti
 Need to work on Sqlite.js Javascript SQL databse.
 
+
+-----------------------------------------------------------------------------------------------
 #### September 26th
 
 ###### Srujan Kumar Reddy Yeruva
 Worked on Speech Synthesis(Text to Speech) for prototype without button trigger. Need to work around Speech Synthesis so that it works completely
+
+###### Anjana Thanguturi
+Worked on implementing of trignometric functions but have to look into all functions implementations because some functions are not recongnizing
