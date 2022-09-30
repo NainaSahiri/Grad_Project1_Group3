@@ -124,6 +124,9 @@ Worked on implementing of trignometric functions but have to look into all funct
 ###### Sindhuja Vilipala
 Worked on the implementation of all the the trignometric functions but unable to execute all.
 
+###### Naina Sahiri
+Worked on SQLite functions with one of the team member.
+
 ------------------------------------------------------------------------------------------------
 #### September 28th
 
