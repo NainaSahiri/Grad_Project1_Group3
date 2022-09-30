@@ -124,10 +124,15 @@ Worked on implementing of trignometric functions but have to look into all funct
 ###### Sindhuja Vilipala
 Worked on the implementation of all the the trignometric functions but unable to execute all.
 
-
+------------------------------------------------------------------------------------------------
 #### September 28th
 
 ###### Srujan Kumar Reddy Yeruva
 Worked on presentation for workshop. Shared newly learned topics with our fellow classmates.
+
+------------------------------------------------------------------------------------------------
+#### September 30th
+###### Srujan Kumar Reddy Yeruva
+Work on Speech Synthesis without clicking any button to speak. Able to produce speeech synthsis without button click. Speaker voice jitters while speaking longer math results.
 
 
