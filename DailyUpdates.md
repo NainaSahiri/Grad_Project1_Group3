@@ -120,3 +120,6 @@ Worked on Speech Synthesis(Text to Speech) for prototype without button trigger.
 
 ###### Anjana Thanguturi
 Worked on implementing of trignometric functions but have to look into all functions implementations because some functions are not recongnizing
+
+###### Sindhuja Vilipala
+Worked on the implementation of all the the trignometric functions but unable to execute all.
