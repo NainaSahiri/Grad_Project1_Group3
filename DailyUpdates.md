@@ -133,6 +133,9 @@ Worked on SQLite functions with one of the team member.
 ###### Srujan Kumar Reddy Yeruva
 Worked on presentation for workshop. Shared newly learned topics with our fellow classmates.
 
+###### Naina Sahiri
+ We have done the presentation of technologies related to the project and taught topics to our class.
+
 ------------------------------------------------------------------------------------------------
 #### September 30th
 ###### Srujan Kumar Reddy Yeruva
