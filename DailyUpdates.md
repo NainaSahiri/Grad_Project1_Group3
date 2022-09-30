@@ -152,3 +152,6 @@ Learned about SQLite database connections and tried to integrate SQLite in the p
 
 ###### Anjana Thanguturi
 Need to work on recognizing the trigonometry functions. Once the functions are recognized need to work on the solutions of the expressions
+
+###### Sindhuja Vilipala
+Worked on trigonometric functions recognition but all functions are not recognized so once that functions are recognized need to work on execution of the functions.
