@@ -135,6 +135,10 @@ Worked on presentation for workshop. Shared newly learned topics with our fellow
 
 ###### Naina Sahiri
  We have done the presentation of technologies related to the project and taught topics to our class.
+ 
+ ###### Anjana Thanguturi
+Worked on the presentation and done knowledge transfer about the new topics we learned with the classmates.
+
 
 ------------------------------------------------------------------------------------------------
 #### September 30th
