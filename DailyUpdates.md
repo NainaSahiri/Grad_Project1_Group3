@@ -139,6 +139,8 @@ Worked on presentation for workshop. Shared newly learned topics with our fellow
  ###### Anjana Thanguturi
 Worked on the presentation and done knowledge transfer about the new topics we learned with the classmates.
 
+###### Sindhuja Vilipala
+I have worked on my part of the presentation i.e., SpeechRecognition and demonstrated those learned concepts in the workshop.
 
 ------------------------------------------------------------------------------------------------
 #### September 30th
