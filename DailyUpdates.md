@@ -141,4 +141,6 @@ Worked on presentation for workshop. Shared newly learned topics with our fellow
 ###### Srujan Kumar Reddy Yeruva
 Work on Speech Synthesis without clicking any button to speak. Able to produce speeech synthsis without button click. Speaker voice jitters while speaking longer math results.
 
+###### Naina Sahiri
+Learned about SQLite database connections and tried to integrate SQLite in the project.
 
