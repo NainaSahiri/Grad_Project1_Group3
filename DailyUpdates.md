@@ -127,6 +127,9 @@ Worked on the implementation of all the the trignometric functions but unable to
 ###### Naina Sahiri
 Worked on SQLite functions with one of the team member.
 
+###### Madhupriya Gundeti
+Worked on Sqlite database and its functionality.
+
 ------------------------------------------------------------------------------------------------
 #### September 28th
 
