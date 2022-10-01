@@ -145,6 +145,9 @@ Worked on the presentation and done knowledge transfer about the new topics we l
 ###### Sindhuja Vilipala
 I have worked on my part of the presentation i.e., SpeechRecognition and demonstrated those learned concepts in the workshop.
 
+###### Madhupriya Gundeti
+we presented a workshop on functionalities that we are using in our project and also gained some knowledge about other functionalities from other teams.
+
 ------------------------------------------------------------------------------------------------
 #### September 30th
 ###### Srujan Kumar Reddy Yeruva
