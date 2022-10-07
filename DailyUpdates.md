@@ -174,3 +174,8 @@ Work on Speech Synthesis without clicking any button to speak. Few functionaliti
 #### October 5th
 ###### Srujan Kumar Reddy Yeruva
 Presented our Mid term presentation to the class. Still working on Speech Synthesis additional functionalities.
+
+-----------------------------------------------------------------------------------------------------
+#### October 7th
+###### Srujan Kumar Reddy Yeruva
+Timeout function have to be added for Speech Synthesis to rectify speech.
