@@ -165,3 +165,10 @@ Worked on trigonometric functions recognition but all functions are not recogniz
 ###### Madhupriya Gundeti
 Need to connect Sqlite to database.
 
+-------------------------------------------------------------------------------------------------------------
+#### October 3rd
+###### Srujan Kumar Reddy Yeruva
+Work on Speech Synthesis without clicking any button to speak. Few functionalities have to added so that we can avoid the speech jitters.
+
+----------------------------------------------------------------------------------------------------------
+
