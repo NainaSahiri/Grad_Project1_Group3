@@ -171,4 +171,6 @@ Need to connect Sqlite to database.
 Work on Speech Synthesis without clicking any button to speak. Few functionalities have to added so that we can avoid the speech jitters.
 
 ----------------------------------------------------------------------------------------------------------
-
+#### October 5th
+###### Srujan Kumar Reddy Yeruva
+Presented our Mid term presentation to the class. Still working on Speech Synthesis additional functionalities.
