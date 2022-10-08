@@ -173,6 +173,8 @@ Work on Speech Synthesis without clicking any button to speak. Few functionaliti
 ###### Madhupriya Gundeti
 Have to implement the functionalities on javascript.
 
+###### Anjana Thanguturi
+I and sindhuja worked on speech recognition to implement arithmetic and trigonometric functions.
 
 ----------------------------------------------------------------------------------------------------------
 #### October 5th
