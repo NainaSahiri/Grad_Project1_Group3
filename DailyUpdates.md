@@ -188,6 +188,9 @@ Need to work on some more functions in SQLite.
 ###### Sindhuja Vilipala
 I have implemented trigonometric functions. Need to check whether the functions are working are not.
 
+###### Naina Sahiri
+The integration of the SQLite Database is still ongoing.
+
 -----------------------------------------------------------------------------------------------------
 #### October 7th
 ###### Srujan Kumar Reddy Yeruva
