@@ -170,6 +170,9 @@ Need to connect Sqlite to database.
 ###### Srujan Kumar Reddy Yeruva
 Work on Speech Synthesis without clicking any button to speak. Few functionalities have to added so that we can avoid the speech jitters.
 
+###### Madhupriya Gundeti
+Have to implement the functionalities on javascript.
+
 ----------------------------------------------------------------------------------------------------------
 #### October 5th
 ###### Srujan Kumar Reddy Yeruva
