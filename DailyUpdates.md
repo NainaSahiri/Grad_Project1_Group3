@@ -176,6 +176,9 @@ Have to implement the functionalities on javascript.
 ###### Anjana Thanguturi
 I and sindhuja worked on speech recognition to implement arithmetic and trigonometric functions.
 
+###### Sindhuja Vilipala
+I have worked on speech recognition to integrate trigonometric functions.
+
 ----------------------------------------------------------------------------------------------------------
 #### October 5th
 ###### Srujan Kumar Reddy Yeruva
