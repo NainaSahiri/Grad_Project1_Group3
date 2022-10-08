@@ -197,6 +197,7 @@ I have implemented trigonometric functions. Need to check whether the functions 
 #### October 7th
 ###### Srujan Kumar Reddy Yeruva
 Timeout function have to be added for Speech Synthesis to rectify speech.
+
 ###### Sindhuja Vilipala
 
 ***
@@ -208,3 +209,8 @@ console.log(getCircleX(0,1));
 ***
 
 We need to check whether this function is working or not.
+
+###### Anjana Thanguturi
+I have to check whether all the trigonometric methods and functions are working properly.If not need to chech for solution
+
+-----------------------------------------------------------------------------------------------------
