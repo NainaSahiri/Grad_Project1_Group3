@@ -173,6 +173,7 @@ Work on Speech Synthesis without clicking any button to speak. Few functionaliti
 ###### Madhupriya Gundeti
 Have to implement the functionalities on javascript.
 
+
 ----------------------------------------------------------------------------------------------------------
 #### October 5th
 ###### Srujan Kumar Reddy Yeruva
@@ -180,6 +181,9 @@ Presented our Mid term presentation to the class. Still working on Speech Synthe
 
 ###### Madhupriya Gundeti
 Need to work on some more functions in SQLite.
+
+###### Sindhuja Vilipala
+I have implemented trigonometric functions. Need to check whether the functions are working are not.
 
 -----------------------------------------------------------------------------------------------------
 #### October 7th
