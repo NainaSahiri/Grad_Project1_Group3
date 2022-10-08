@@ -187,11 +187,11 @@ Presented our Mid term presentation to the class. Still working on Speech Synthe
 ###### Madhupriya Gundeti
 Need to work on some more functions in SQLite.
 
-###### Sindhuja Vilipala
-I have implemented trigonometric functions. Need to check whether the functions are working are not.
-
 ###### Anjana Thanguturi
 I worked on the presentation of our mid and working on speech recognition functionalities.
+
+###### Sindhuja Vilipala
+I have implemented trigonometric functions. Need to check whether the functions are working are not.
 
 -----------------------------------------------------------------------------------------------------
 #### October 7th
