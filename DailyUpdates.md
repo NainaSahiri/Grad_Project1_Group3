@@ -198,3 +198,6 @@ Timeout function have to be added for Speech Synthesis to rectify speech.
 
 ###### Naina Sahiri
 Need to work on more Sqlite functions to implement properly.
+
+###### Madhupriya Gundeti
+Need to implement all functions in javascript.
