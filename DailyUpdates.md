@@ -178,6 +178,9 @@ Have to implement the functionalities on javascript.
 ###### Srujan Kumar Reddy Yeruva
 Presented our Mid term presentation to the class. Still working on Speech Synthesis additional functionalities.
 
+###### Madhupriya Gundeti
+Need to work on some more functions in SQLite.
+
 -----------------------------------------------------------------------------------------------------
 #### October 7th
 ###### Srujan Kumar Reddy Yeruva
