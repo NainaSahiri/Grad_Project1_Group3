@@ -190,6 +190,9 @@ Need to work on some more functions in SQLite.
 ###### Sindhuja Vilipala
 I have implemented trigonometric functions. Need to check whether the functions are working are not.
 
+###### Anjana Thanguturi
+I worked on the presentation of our mid and working on speech recognition functionalities.
+
 -----------------------------------------------------------------------------------------------------
 #### October 7th
 ###### Srujan Kumar Reddy Yeruva
