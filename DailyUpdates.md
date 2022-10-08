@@ -173,9 +173,6 @@ Work on Speech Synthesis without clicking any button to speak. Few functionaliti
 ###### Madhupriya Gundeti
 Have to implement the functionalities on javascript.
 
-###### Naina Sahiri
-Worked on Sqlite javascript functions.
-
 
 ----------------------------------------------------------------------------------------------------------
 #### October 5th
@@ -188,16 +185,18 @@ Need to work on some more functions in SQLite.
 ###### Sindhuja Vilipala
 I have implemented trigonometric functions. Need to check whether the functions are working are not.
 
-###### Naina Sahiri
-The integration of the SQLite Database is still ongoing.
-
 -----------------------------------------------------------------------------------------------------
 #### October 7th
 ###### Srujan Kumar Reddy Yeruva
 Timeout function have to be added for Speech Synthesis to rectify speech.
+###### Sindhuja Vilipala
 
-###### Naina Sahiri
-Need to work on more Sqlite functions to implement properly.
+***
+function getCircleX(radians, radius) {
+  return Math.cos(radians) * radius;
+}
 
-###### Madhupriya Gundeti
-Need to implement all functions in javascript.
+console.log(getCircleX(0,1));
+***
+
+We need to check whether this function is working or not.
