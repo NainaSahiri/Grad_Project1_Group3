@@ -173,6 +173,9 @@ Work on Speech Synthesis without clicking any button to speak. Few functionaliti
 ###### Madhupriya Gundeti
 Have to implement the functionalities on javascript.
 
+###### Naina Sahiri
+Worked on Sqlite javascript functions.
+
 
 ----------------------------------------------------------------------------------------------------------
 #### October 5th
