@@ -195,3 +195,6 @@ The integration of the SQLite Database is still ongoing.
 #### October 7th
 ###### Srujan Kumar Reddy Yeruva
 Timeout function have to be added for Speech Synthesis to rectify speech.
+
+###### Naina Sahiri
+Need to work on more Sqlite functions to implement properly.
