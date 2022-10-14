@@ -219,3 +219,13 @@ I have to check whether all the trigonometric methods and functions are working 
 
 ###### Anjana Thanguturi
 Worked on trigonometric functions and their inversev functions along with sindhuja. All are implemented but facing some output errors need to work on them.
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------
+#### October 12th
+
+###### Anjana Thanguturi
+Worked on inverse function outputs and also on logarithmic functions. Need to work on exponential functions and also need to work with team to extend or add new features to our project 
