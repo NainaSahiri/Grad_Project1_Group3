@@ -38,19 +38,40 @@
             message.textContent = 'You spoke: ' + command;
 
             Math.eval = function (command) {
-                for (var i = 0; i < command.length; i++) {
-                    if (isNaN(command[i]) && !['+', '-', '/', '*', '%'].includes(command[i]) && !command.includes("sine ")) {
-                        text.value = "";
-                        text.value = command;
-                        return NaN;
-                    }else if (command.includes("sine ")) {
-                        var degree = command.substring(5, command.length);
-                        console.log(degree);
-                        text.value = Math.sin(degree * Math.PI / 180);
-                    }else {
-                        text.value = eval(command);
+                if (command.startsWith("sine ") || command.startsWith("cosecant inverse ")) {
+                    if (command.startsWith("sine ")) {
+                        degree = command.substring(5, command.length);
+                    } else {
+                        degree = command.substring(16, command.length);
+                    }
+                    console.log(degree)
+                    text.value = Math.sin(degree * Math.PI / 180).toFixed(5);
+                } else if (command.startsWith("cosine") || command.startsWith("secant inverse ")) {
+                    if (command.startsWith("cosine ")) {
+                        degree = command.substring(7, command.length);
+                    } else {
+                        degree = command.substring(15, command.length);
+                    }
+                    text.value = Math.cos(degree * Math.PI / 180).toFixed(5);
+                } else if (command.startsWith("tangent ") || command.startsWith("cotangent inverse ")) {
+                    if (command.startsWith("tangent ")) {
+                        degree = command.substring(7, command.length);
+                    } else {
+                        degree = command.substring(18, command.length);
+                    }
+                    text.value = Math.tan(degree * Math.PI / 180).toFixed(5);
+                } else {
+                    for (var i = 0; i < command.length; i++) {
+                        if (isNaN(command[i]) && !['+', '-', '/', '*', '%'].includes(command[i])) {
+                            text.value = "";
+                            text.value = command;
+                            return NaN;
+                        } else {
+                            text.value = eval(command);
+                        }
                     }
                 }
+
             }
             Math.eval(command);
         };
@@ -72,7 +93,7 @@
         var txtInput = document.querySelector('#txtInput');
         var btnSpeak = document.querySelector('#btnSpeak');
         var synth = window.speechSynthesis;
-        
+
         setTimeout(function () {
             console.log("Hiiiii")
             var toSpeak = new SpeechSynthesisUtterance(txtInput.value);
