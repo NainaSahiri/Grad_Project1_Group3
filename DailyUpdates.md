@@ -215,3 +215,7 @@ We need to check whether this function is working or not.
 I have to check whether all the trigonometric methods and functions are working properly.If not need to chech for solution
 
 -----------------------------------------------------------------------------------------------------
+#### October 10th
+
+###### Anjana Thanguturi
+Worked on trigonometric functions and their inversev functions along with sindhuja. All are implemented but facing some output errors need to work on them.
