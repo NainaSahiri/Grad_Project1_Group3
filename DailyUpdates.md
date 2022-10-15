@@ -220,6 +220,8 @@ I have to check whether all the trigonometric methods and functions are working 
 ###### Anjana Thanguturi
 Worked on trigonometric functions and their inversev functions along with sindhuja. All are implemented but facing some output errors need to work on them.
 
+###### Madhupriya Gundeti
+Have to work on more functions required to integrate SQLite to Javascript.
 
 
 
