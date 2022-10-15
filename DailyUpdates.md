@@ -223,8 +223,8 @@ Worked on trigonometric functions and their inversev functions along with sindhu
 ###### Madhupriya Gundeti
 Have to work on more functions required to integrate SQLite to Javascript.
 
-
-
+###### Sindhuja Vilipala
+ Worked on trignometric functions and inverse functions. I have faced some errors while working with inverse functions
 
 -----------------------------------------------------------------------------------------------------
 #### October 12th
