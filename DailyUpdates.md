@@ -228,6 +228,9 @@ Have to work on more functions required to integrate SQLite to Javascript.
  
  ###### Srujan Kumar Reddy Yeruva
  Glitches for Speech Synthesis as the computer is unable to speak smaller results.
+ 
+ ###### Naina Sahiri
+ Need to work on more Sqlite functions to implement properly
 
 -----------------------------------------------------------------------------------------------------
 #### October 12th
