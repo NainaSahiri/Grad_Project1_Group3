@@ -60,7 +60,33 @@
                         degree = command.substring(18, command.length);
                     }
                     text.value = Math.tan(degree * Math.PI / 180).toFixed(5);
-                } else {
+                } else if (command.startsWith("secant ") || command.startsWith("cosine inverse ")) {
+                    if (command.startsWith("secant ")) {
+                        degree = command.substring(7, command.length);
+                    } else {
+                        degree = command.substring(14, command.length);
+                    }
+                    console.log(degree)
+                    text.value = (1 / Math.sin(degree * Math.PI / 180)).toFixed(5);
+                } else if (command.startsWith("cosecant ") || command.startsWith("sine inverse ")) {
+                    if (command.startsWith("cosecant ")) {
+                        degree = command.substring(9, command.length);
+                    } else {
+                        degree = command.substring(12, command.length);
+                    }
+                    text.value = (1 / Math.cos(degree * Math.PI / 180)).toFixed(5);
+                } else if (command.startsWith("cotangent ") || command.startsWith("tangent inverse ")) {
+                    if (command.startsWith("cotangent ")) {
+                        degree = command.substring(10, command.length);
+                    } else {
+                        degree = command.substring(16, command.length);
+                    }
+                    text.value = (1 / Math.tan(degree * Math.PI / 180)).toFixed(5);
+                } else if (command.startsWith("log ")) {
+                    degree = command.substring(3, command.length);
+                    text.value = Math.log(degree).toFixed(5);
+                }
+                else {
                     for (var i = 0; i < command.length; i++) {
                         if (isNaN(command[i]) && !['+', '-', '/', '*', '%'].includes(command[i])) {
                             text.value = "";
