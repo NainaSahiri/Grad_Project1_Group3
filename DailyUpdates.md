@@ -246,7 +246,18 @@ Fixed speech synthesis glitches and it's working fine as expected. Need to find 
 
 ###### Madhupriya Gundeti
 Connected Sqlite to Javascript successfully. Inserted data of the calculator into DB.
-######
+
+###### Naina Sahiri
+Able to connect with SQLite successfully.
+const sqlite3 = require("sqlite3").verbose();
+
+const db = new sqlite3.Database('./mock.db',sqlite3.OPEN_READWRITE,(err)=>{
+    if (err) return console.error(err.message);
+
+    console.log("connection successfull");
+});
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### October 14th
 ###### Madhupriya Gundeti
