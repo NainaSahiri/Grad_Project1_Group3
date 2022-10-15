@@ -233,4 +233,4 @@ Have to work on more functions required to integrate SQLite to Javascript.
 Worked on inverse function outputs and also on logarithmic functions. Need to work on exponential functions and also need to work with team to extend or add new features to our project 
 
 ###### Sindhuja Vilipala
-Worked on trignometric functions and logarithmic functions. Need to work on all the mathematical functions and need to search new features to our speaking calculator.
+Worked on trignometric functions and logarithmic functions. Need to work on all the mathematical functions and need to search new features to our project speaking calculator.
