@@ -240,3 +240,7 @@ Worked on trignometric functions and logarithmic functions. Need to work on all 
 
 ###### Srujan Kumar Reddy Yeruva
 Fixed speech synthesis glitches and it's working fine as expected. Need to find new features for our project.
+
+###### Madhupriya Gundeti
+Connected Sqlite to Javascript successfully. Inserted data of the calculator into DB.
+######
