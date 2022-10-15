@@ -225,6 +225,9 @@ Have to work on more functions required to integrate SQLite to Javascript.
 
 ###### Sindhuja Vilipala
  Worked on trignometric functions and inverse functions. I have faced some errors while working with inverse functions
+ 
+ ###### Srujan Kumar Reddy Yeruva
+ Glitches for Speech Synthesis as the computer is unable to speak smaller results.
 
 -----------------------------------------------------------------------------------------------------
 #### October 12th
