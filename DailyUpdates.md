@@ -244,3 +244,7 @@ Fixed speech synthesis glitches and it's working fine as expected. Need to find 
 ###### Madhupriya Gundeti
 Connected Sqlite to Javascript successfully. Inserted data of the calculator into DB.
 ######
+
+#### October 14th
+###### Madhupriya Gundeti
+Worked on how to write db file to javascript. Looking into new functionalities.
