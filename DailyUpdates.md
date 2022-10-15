@@ -262,3 +262,22 @@ const db = new sqlite3.Database('./mock.db',sqlite3.OPEN_READWRITE,(err)=>{
 #### October 14th
 ###### Madhupriya Gundeti
 Worked on how to write db file to javascript. Looking into new functionalities.
+
+###### Naina Sahiri
+worked with one of the teammates on how to write a database file to javascript.
+db.run(sql,'CREATE TABLE history(time_stamp,expression)'); 
+
+const sql = "INSERT INTO history(time_stamp,expression) VALUES(?,?)";
+
+db.run(sql,[234255,'2+4'],(err) => {})
+db.all(sql,[],(err,rows)=>{
+    if (err)return console.error(err.message);
+
+    rows.forEach(row=>{
+        console.log(row);
+    });
+});
+
+db.close((err)=>{
+    if (err) return console.error(err.message);
+});
