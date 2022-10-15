@@ -237,3 +237,6 @@ Worked on inverse function outputs and also on logarithmic functions. Need to wo
 
 ###### Sindhuja Vilipala
 Worked on trignometric functions and logarithmic functions. Need to work on all the mathematical functions and need to search new features to our project speaking calculator.
+
+###### Srujan Kumar Reddy Yeruva
+Fixed speech synthesis glitches and it's working fine as expected. Need to find new features for our project.
