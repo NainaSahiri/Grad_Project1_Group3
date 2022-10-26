@@ -2,6 +2,16 @@
 
 ## Speaking Calculator
 
+## Table of Contents
+1. [Project Objective](https://github.com/NainaSahiri/Grad_Project1_Group3#project-objective)
+2. [Project Description](https://github.com/NainaSahiri/Grad_Project1_Group3#project-description)
+3. [Project Details](https://github.com/NainaSahiri/Grad_Project1_Group3#project-details)
+4. [Client Details](https://github.com/NainaSahiri/Grad_Project1_Group3#client)
+5. [Team Members](https://github.com/NainaSahiri/Grad_Project1_Group3#team-members)
+6. [Team Goals](https://github.com/NainaSahiri/Grad_Project1_Group3#team-goals)
+7. [Features of Speaking Calculator](https://github.com/NainaSahiri/Grad_Project1_Group3#features-of-speaking-calculator)
+8. [Team Bio's](https://github.com/NainaSahiri/Grad_Project1_Group3#team-bios)
+
 #### Project Objective:
 The main objective of this project is to develop a speaking calculator which is mainly helpful for the physically challenged people.
 
@@ -9,8 +19,10 @@ The main objective of this project is to develop a speaking calculator which is 
 A Speaking Calculator accepts input from keyboard and also as voice. Once the input is entered it will ask user to confirm whether the entered details are correct or
 wrong. Once user confirms, based on the input it performs the mathematical operations. Mathematical expression along with result is spoken out. Planning to use Java
 for backend and use public libraries for voice assisstance. Later will try to develop an IOS application on the same.
+
 #### Project Details:
 We are going to develop a web application using the public library Web Speech API.
+
 #### Client:
 Dr. ChandraMouli Kotteti<br>
 Assistant Professor, School of CSIS<br>
