@@ -11,6 +11,9 @@
 6. [Team Goals](https://github.com/NainaSahiri/Grad_Project1_Group3#team-goals)
 7. [Features of Speaking Calculator](https://github.com/NainaSahiri/Grad_Project1_Group3#features-of-speaking-calculator)
 8. [Team Bio's](https://github.com/NainaSahiri/Grad_Project1_Group3#team-bios)
+9. [Wiki Page](https://github.com/NainaSahiri/Grad_Project1_Group3/wiki)
+10. [Daily Updates Page](https://github.com/NainaSahiri/Grad_Project1_Group3/blob/main/DailyUpdates.md)
+11. [Project Page](https://github.com/users/NainaSahiri/projects/1)
 
 #### Project Objective:
 The main objective of this project is to develop a speaking calculator which is mainly helpful for the physically challenged people.
