@@ -290,6 +290,9 @@ db.close((err)=>{
 Worked on natural log and log 10 functions, root functions(square root, cube root and nth root). Facing some issue while making recognisation of nth root with value
 grater than 6 i.e., seventh, eighth. need to work on nth root function where n is greater than 6
 
+###### Sindhuja Vilipala
+Worked on Log base 10 function and power function using math library.
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
