@@ -110,6 +110,53 @@
                     // exponential to the power 3
                     const val = command.split(" ");
                     text.value = Math.exp(val[2]).toFixed(5);
+                } else if (command.includes("root")) {
+                    console.log('inside root')
+                    if (command.startsWith("square root of ")) {
+                        const val = command.split(" ");
+                        text.value = Math.sqrt(val[val.length - 1]).toFixed(5);
+                    } else if (command.startsWith("cube root of ")) {
+                        const val = command.split(" ");
+                        text.value = Math.cbrt(val[val.length - 1]).toFixed(5);
+                    } else {
+                        // fourth root of 3
+                        console.log('inside this')
+                        const val = command.split(" ");
+                        var root;
+                        console.log(val[0])
+                        switch (val[0]) {
+                            case 'fourth':
+                            case '4th':
+                                root = 4;
+                                break;
+                            case 'fifth':
+                            case '5th':
+                                root = 5;
+                                break;
+                            case 'sixth':
+                            case '6th':
+                                root = 6;
+                                break;
+                            case 'seventh':
+                            case '7th':
+                                root = 7;
+                                break;
+                            case 'eigth':
+                            case '8th':
+                                root = 8;
+                                break;
+                            case 'ninth':
+                            case '9th':
+                                root = 9;
+                                break;
+                            case 'tenth':
+                            case '10th':
+                                root = 10;
+                                break;
+                        }
+                        console.log(root)
+                        text.value = Math.pow(val[val.length - 1], (1 / root)).toFixed(5);
+                    }
                 } else {
                     for (var i = 0; i < command.length; i++) {
                         if (isNaN(command[i]) && !['+', '-', '/', '*', '%'].includes(command[i])) {
