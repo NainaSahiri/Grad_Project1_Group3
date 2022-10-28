@@ -281,3 +281,25 @@ db.all(sql,[],(err,rows)=>{
 db.close((err)=>{
     if (err) return console.error(err.message);
 });
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### October 24th
+###### Anjana Thanguturi
+Worked on natural log and log 10 functions, root functions(square root, cube root and nth root). Facing some issue while making recognisation of nth root with value
+grater than 6 i.e., seventh, eighth. need to work on nth root function where n is greater than 6
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### October 26th
+###### Anjana Thanguturi
+Able to solve the issue related to root functions. Should start working on Calculator design
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### October 28th
+###### Anjana Thanguturi
+Working on UI design of speaking calculator. Need to work on integrating both button click and speech for designed calculator
