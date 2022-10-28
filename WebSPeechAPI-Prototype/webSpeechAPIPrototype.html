@@ -85,8 +85,32 @@
                 } else if (command.startsWith("log ")) {
                     degree = command.substring(3, command.length);
                     text.value = Math.log(degree).toFixed(5);
-                }
-                else {
+                } else if (command.startsWith("natural log ")) {
+                    // using natural logarithm (ln)
+                    //natural log 3 with base 4 or natural log 3
+                    if (!command.includes('inverse')) {
+                        if (command.includes('base')) {
+                            const array = command.split(" ");
+                            text.value = (Math.log(array[2]) / Math.log(array[5])).toFixed(5);
+                        } else {
+                            const array = command.split(" ");
+                            text.value = Math.log(array[2]).toFixed(5);
+                        }
+                    } else {
+                        //natural log inverse 3 with base 4 or natural log inverse 3
+                        if (command.includes('base')) {
+                            const array = command.split(" ");
+                            text.value = (Math.log(array[6]) / Math.log(array[3])).toFixed(5);
+                        } else {
+                            const array1 = command.split(" ");
+                            text.value = (1 / (Math.log(array1[3]))).toFixed(5);
+                        }
+                    }
+                } else if (command.startsWith("exponential ") && command.includes(" ^ ")) {
+                    // exponential to the power 3
+                    const val = command.split(" ");
+                    text.value = Math.exp(val[2]).toFixed(5);
+                } else {
                     for (var i = 0; i < command.length; i++) {
                         if (isNaN(command[i]) && !['+', '-', '/', '*', '%'].includes(command[i])) {
                             text.value = "";
@@ -100,12 +124,12 @@
 
             }
             Math.eval(command);
-            
+
             setTimeout(function () {
-            console.log("Hiiiii")
-            var toSpeak = new SpeechSynthesisUtterance(txtInput.value);
-            synth.speak(toSpeak);
-        }, 8000);
+                console.log("Hiiiii")
+                var toSpeak = new SpeechSynthesisUtterance(txtInput.value);
+                synth.speak(toSpeak);
+            }, 8000);
         };
 
         recognition.onspeechend = function () {
