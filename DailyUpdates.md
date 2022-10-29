@@ -299,6 +299,9 @@ With one of the teammates, I worked on event listeners and how to implement thos
 ###### Naina Sahiri
 Working on event listeners and implemented them in javascript with one of the teammates 
 
+###### Srujan Kumar Reddy Yeruva
+Worked on Event listeners such as on click and mouse up events. Planning to work on hosting our web application on EC2 machine.
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
