@@ -296,6 +296,9 @@ Worked on Log base 10 function and power function using math library.
 ###### Madhupriya Gundeti
 With one of the teammates, I worked on event listeners and how to implement those in javascript. Event listeners were attempted to be implemented in our project.
 
+###### Naina Sahiri
+Working on event listeners and implemented them in javascript with one of the teammates 
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -309,6 +312,9 @@ Event listeners were implemented on the talk button and speak without any issues
 ###### Sindhuja Vilipala
 Worked on PI and factorial math functions in our speaking calculator application. 
 
+###### Naina Sahiri
+Implemented event listeners without any errors on both speak and talk buttons
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -320,6 +326,9 @@ Learned about AWS RDS and made an attempt at setting up a database.
 
 ###### Sindhuja Vilipala
 Working on UI design of speaking calculator.
+
+###### Naina Sahiri
+Tried implementing script for database to connect the data but it didnt connect.
 
 
 
