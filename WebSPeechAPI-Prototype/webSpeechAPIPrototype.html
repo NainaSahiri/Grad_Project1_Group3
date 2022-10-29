@@ -131,7 +131,25 @@
                     // exponential to the power 3
                     const val = command.split(" ");
                     text.value = Math.exp(val[2]).toFixed(5);
-                } else if (command.includes("root")) {
+                } else if (command.includes("pi")) {
+                    // pi function - 7 pi
+                    const val = command.split(" ");
+                    text.value = val[0] * Math.PI.toFixed(5);
+                } else if (command.endsWith("factorial")) {
+                    const val = command.split(" ");
+                    const val1 = val[0];
+                    var final;
+                    if (val1 == '0' && val1 == '1') {
+                        final = 1;
+                    } else if (val1 > 0) {
+                        let fact = 1;
+                        for (i = 1; i <= val1; i++) {
+                            fact *= i;
+                        }
+                        final = fact;
+                    }
+                    text.value = final;
+                }else if (command.includes("root")) {
                     console.log('inside root')
                     if (command.startsWith("square root of ")) {
                         const val = command.split(" ");
