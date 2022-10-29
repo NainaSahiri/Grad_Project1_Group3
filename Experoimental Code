@@ -1,0 +1,6 @@
+###### code used for integrating database
+
+
+document.querySelector('#btnTalk').addEventListener('click', function () {
+    recognition.start();
+});
