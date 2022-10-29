@@ -1,6 +1,29 @@
 ###### code used for integrating database
 
-
+adding event listerners to button talk
 document.querySelector('#btnTalk').addEventListener('click', function () {
     recognition.start();
 });
+
+-----------------------------------------------------------------------------
+
+###### tried to connect the dataase
+const element = document.getElementById("btnTalk");
+        element.addEventListener("click", function() {
+       document.getElementById("demo").innerHTML = "i am displaying about button talk";
+       });
+        </script>
+<script type="text/javascript">
+        var db=openDatabase("History","1.0","History",65535); // itemDB is the database name
+
+function insert_Row(){
+    var expression=$("#txtInput").val();
+db.transaction(function(transaction){
+var sql="INSERT INTO history(expression,time_stamp) VALUES(?,?)";
+transaction.executeSql(sql,[expression,time_stamp],function(){
+	alert("New item is added successfully");
+},function(transaction,err){
+	alert(err.message);
+}
+);
+---------------------------------------------
