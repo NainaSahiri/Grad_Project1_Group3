@@ -306,6 +306,10 @@ Able to solve the issue related to root functions. Should start working on Calcu
 ###### Madhupriya Gundeti
 Event listeners were implemented on the talk button and speak without any issues.
 
+###### Sindhuja Vilipala
+Worked on PI and factorial math functions in our speaking calculator application. 
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### October 28th
@@ -313,3 +317,9 @@ Event listeners were implemented on the talk button and speak without any issues
 Working on UI design of speaking calculator. Need to work on integrating both button click and speech for designed calculator
 ###### Madhupriya Gundeti
 Learned about AWS RDS and made an attempt at setting up a database.
+
+###### Sindhuja Vilipala
+Working on UI design of speaking calculator.
+
+
+
