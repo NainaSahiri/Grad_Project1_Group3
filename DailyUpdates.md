@@ -293,6 +293,9 @@ grater than 6 i.e., seventh, eighth. need to work on nth root function where n i
 ###### Sindhuja Vilipala
 Worked on Log base 10 function and power function using math library.
 
+###### Madhupriya Gundeti
+With one of the teammates, I worked on event listeners and how to implement those in javascript. Event listeners were attempted to be implemented in our project.
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -300,9 +303,13 @@ Worked on Log base 10 function and power function using math library.
 ###### Anjana Thanguturi
 Able to solve the issue related to root functions. Should start working on Calculator design
 
+###### Madhupriya Gundeti
+Event listeners were implemented on the talk button and speak without any issues.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### October 28th
 ###### Anjana Thanguturi
 Working on UI design of speaking calculator. Need to work on integrating both button click and speech for designed calculator
+###### Madhupriya Gundeti
+Learned about AWS RDS and made an attempt at setting up a database.
