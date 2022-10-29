@@ -51,6 +51,7 @@ var sql="INSERT INTO history(expression,time_stamp) VALUES(?,?)";
 transaction.executeSql(sql,[expression,time_stamp],function(){
 	alert("New item is added successfully");
 },function(transaction,err){
+
 	alert(err.message);
 }
 );
