@@ -318,6 +318,9 @@ Worked on PI and factorial math functions in our speaking calculator application
 ###### Naina Sahiri
 Implemented event listeners without any errors on both speak and talk buttons
 
+###### Srujan Kumar Reddy Yeruva
+Was unsuccessfull in deploying our code on EC2 server. Also, looking for any other alternative hosting platforms.
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
