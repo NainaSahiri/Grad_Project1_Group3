@@ -106,7 +106,28 @@
                             text.value = (1 / (Math.log(array1[3]))).toFixed(5);
                         }
                     }
-                } else if (command.startsWith("exponential ") && command.includes(" ^ ")) {
+                } else if (command.startsWith("log ")) {
+                    // using logarithm with base 10 (log10)
+                    //log 3 with base 4 or log 3
+                    if (!command.includes('inverse')) {
+                        if (command.includes('base')) {
+                            const array = command.split(" ");
+                            text.value = (Math.log10(array[1]) / Math.log10(array[4])).toFixed(5);
+                        } else {
+                            const array = command.split(" ");
+                            text.value = Math.log10(array[1]).toFixed(5);
+                        }
+              } else {
+                        //log inverse 3 with base 4 or log inverse 3
+                        if (command.includes('base')) {
+                            const array = command.split(" ");
+                            text.value = (Math.log10(array[5]) / Math.log10(array[2])).toFixed(5);
+                        } else {
+                            const array1 = command.split(" ");
+                            text.value = (1 / (Math.log10(array1[2]))).toFixed(5);
+                        }
+                    }
+             } else if (command.startsWith("exponential ") && command.includes(" ^ ")) {
                     // exponential to the power 3
                     const val = command.split(" ");
                     text.value = Math.exp(val[2]).toFixed(5);
