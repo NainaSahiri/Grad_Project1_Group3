@@ -27,3 +27,9 @@ transaction.executeSql(sql,[expression,time_stamp],function(){
 }
 );
 ---------------------------------------------
+
+adding event listerners to button speak
+document.querySelector('#btnSpeak').addEventListener('click', function () {
+            recognition.start();
+
+        });
