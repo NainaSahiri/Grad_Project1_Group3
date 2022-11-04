@@ -343,3 +343,14 @@ Tried implementing script for database to connect the data but it didnt connect.
 Started UI design of the speaking calculator and also presented our learning in the workshop-2.
 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### November 2nd
+###### Anjana Thanguturi
+Worked on UI design of the speaking calculator and also on functionality.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### November 4th
+###### Anjana Thanguturi
+Should complete the speaking calculator functionality
