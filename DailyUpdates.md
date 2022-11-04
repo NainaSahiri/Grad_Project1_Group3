@@ -349,6 +349,10 @@ Started UI design of the speaking calculator and also presented our learning in 
 ###### Anjana Thanguturi
 Worked on UI design of the speaking calculator and also on functionality.
 
+###### Sindhuja Vilipala
+Working on UI design of speaking calculator and working on onclick functions.
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### November 4th
