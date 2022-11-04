@@ -336,5 +336,10 @@ Working on UI design of speaking calculator.
 ###### Naina Sahiri
 Tried implementing script for database to connect the data but it didnt connect.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### October 31st
+###### Anjana Thanguturi
+Started UI design of the speaking calculator and also presented our learning in the workshop-2.
 
 
