@@ -361,6 +361,9 @@ Successfully installed Amazon RDS and checked the features of Amazon RDS.
 ###### Naina Sahiri
 Working on the connections of database to our project using event listeners
 
+###### Srujan Kumar Reddy Yeruva
+Binding SSL certificate to our website but couldn't find proper SSL providers
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### November 4th
