@@ -352,6 +352,8 @@ Worked on UI design of the speaking calculator and also on functionality.
 ###### Sindhuja Vilipala
 Working on UI design of speaking calculator and working on onclick functions.
 
+###### Madhupriya Gundeti
+Successfully installed Amazon RDS and checked the features of Amazon RDS.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
