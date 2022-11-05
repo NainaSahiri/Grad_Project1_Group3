@@ -365,3 +365,6 @@ Working on the connections of database to our project using event listeners
 Should complete the speaking calculator functionality
 ###### Madhupriya Gundeti
 Need to prepare for midterm presentation and need to implement the Amazon RDS functionalities.
+
+###### Naina Sahiri
+Installed amazon RDS, created a database, exploring amazon RDS features and trying to connect the database
