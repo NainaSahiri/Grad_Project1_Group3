@@ -342,6 +342,9 @@ Tried implementing script for database to connect the data but it didnt connect.
 ###### Anjana Thanguturi
 Started UI design of the speaking calculator and also presented our learning in the workshop-2.
 
+###### Srujan Kumar Reddy Yeruva
+Working on SSL certificates. Presented EC2 topic in workshop 2.
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
