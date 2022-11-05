@@ -55,3 +55,32 @@ transaction.executeSql(sql,[expression,time_stamp],function(){
 	alert(err.message);
 }
 );
+
+---------------------------------------------------------------------------------------------------------------------------
+###### Tried to connect Database using Node js
+const sqlite3 = require("sqlite3").verbose();
+
+const db = new sqlite3.Database('./mock.db',sqlite3.OPEN_READWRITE,(err)=>{
+    if (err) return console.error(err.message);
+
+    console.log("connection successfull");
+});
+
+db.run(sql,'CREATE TABLE history(time_stamp,expression)'); 
+
+const sql = "INSERT INTO history(time_stamp,expression) VALUES(?,?)";
+
+db.run(sql,[234255,'2+4'],(err) => {})
+db.all(sql,[],(err,rows)=>{
+    if (err)return console.error(err.message);
+
+    rows.forEach(row=>{
+        console.log(row);
+    });
+});
+
+db.close((err)=>{
+    if (err) return console.error(err.message);
+});
+
+-----------------------------------------------------------------------------------------------------------------------------------------
