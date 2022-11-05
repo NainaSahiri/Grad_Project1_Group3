@@ -84,3 +84,27 @@ db.close((err)=>{
 });
 
 -----------------------------------------------------------------------------------------------------------------------------------------
+
+###### Inserting data using node js
+const sqlite3 = require('sqlite3').verbose();
+
+let db = new sqlite3.Database('./db/sample.db');
+if (err) return console.error(err.message);
+
+    console.log("connection successfull");
+
+    const sql = "INSERT INTO history(time_stamp,expression) VALUES(?,?)";
+
+    db.run(sql,[234255,'2+4'],(err) => {})
+    db.all(sql,[],(err,rows)=>{
+        if (err)return console.error(err.message);
+    
+        rows.forEach(row=>{
+            console.log(row);
+        });
+    });
+
+// close the database connection
+db.close();
+
+
