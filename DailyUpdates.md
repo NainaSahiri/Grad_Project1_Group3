@@ -360,3 +360,5 @@ Successfully installed Amazon RDS and checked the features of Amazon RDS.
 #### November 4th
 ###### Anjana Thanguturi
 Should complete the speaking calculator functionality
+###### Madhupriya Gundeti
+Need to prepare for midterm presentation and need to implement the Amazon RDS functionalities.
