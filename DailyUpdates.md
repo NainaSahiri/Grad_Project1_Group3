@@ -391,3 +391,4 @@ Done with Mid2 presentation. Need to implement Amazon Rds for database integrati
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### November 11th
+Worked on the features and functionlaities of Amazon RDS.
