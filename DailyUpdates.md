@@ -374,3 +374,20 @@ Need to prepare for midterm presentation and need to implement the Amazon RDS fu
 
 ###### Naina Sahiri
 Installed amazon RDS, created a database, exploring amazon RDS features and trying to connect the database
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### November 7th 
+###### Madhupriya Gundeti
+Done with Mid2 presentation. Need to implement Amazon Rds for database integration
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### November 9th
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### November 11th
