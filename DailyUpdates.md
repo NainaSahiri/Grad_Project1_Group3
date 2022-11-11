@@ -382,6 +382,8 @@ Installed amazon RDS, created a database, exploring amazon RDS features and tryi
 ###### Madhupriya Gundeti
 Done with Mid2 presentation. Need to implement Amazon Rds for database integration
 
+###### Anjana Thanguturi
+Presented our updates on speaking calculator in Mid2.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
