@@ -389,6 +389,8 @@ Presented our updates on speaking calculator in Mid2.
 
 #### November 9th
 
+###### Anjana Thanguturi
+Updated our UI and working on calculator functionalities
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
