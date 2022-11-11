@@ -396,3 +396,6 @@ Updated our UI and working on calculator functionalities
 
 #### November 11th
 Worked on the features and functionlaities of Amazon RDS.
+
+###### Anjana Thanguturi
+Need to integrate our calculator and voice recognition functionalities.
