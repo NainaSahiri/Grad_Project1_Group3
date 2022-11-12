@@ -406,3 +406,8 @@ Worked on the features and functionlaities of Amazon RDS.
 
 ###### Anjana Thanguturi
 Need to integrate our calculator and voice recognition functionalities.
+
+###### Sindhuja Vilipala
+Working on speech recognition functionalities on updated UI Design.
+
+
