@@ -396,6 +396,9 @@ Worked on midterm presentation and presented updates on our project speaking cal
 ###### Anjana Thanguturi
 Updated our UI and working on calculator functionalities
 
+###### Sindhuja Vilipala
+Worked on onclick functions on updated UI Design.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### November 11th
