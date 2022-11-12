@@ -402,6 +402,9 @@ Updated our UI and working on calculator functionalities
 ###### Sindhuja Vilipala
 Worked on onclick functions on updated UI Design.
 
+###### Srujan Kumar Reddy Yeruva
+Able to change name servers and point it to our website. To add SSL certificate to the hosting site
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### November 11th
