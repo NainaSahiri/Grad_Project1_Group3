@@ -107,4 +107,21 @@ if (err) return console.error(err.message);
 // close the database connection
 db.close();
 
+---------------------------------------------------------------------------------------------------
+code for inserting the data using javascript
+$("#insert_Row").click(function(){
+ var expression=$("#txtInput").val();
+db.transaction(function(transaction){
+var sql="INSERT INTO history(expression,time_stamp) VALUES(?,?)";
+transaction.executeSql(sql,[expression,time_stamp],function(){
+ 	alert("New item is added successfully");
+ },function(transaction,err){
+ 	alert(err.message);
+ })
+ })
+//FETCHING OUR RECORD
+$("#list").click(function(){
+ loadData();
+ })
+
 
