@@ -416,4 +416,7 @@ Need to integrate our calculator and voice recognition functionalities.
 ###### Sindhuja Vilipala
 Working on speech recognition functionalities on updated UI Design.
 
+###### Srujan Kumar Reddy Yeruva
+Looking for alternative to generate SSL certificate since SSL is not free of cost.
+
 
