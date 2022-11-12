@@ -385,6 +385,10 @@ Done with Mid2 presentation. Need to implement Amazon Rds for database integrati
 ###### Anjana Thanguturi
 Presented our updates on speaking calculator in Mid2.
 
+###### Sindhuja Vilipala
+Worked on midterm presentation and presented updates on our project speaking calculator.
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### November 9th
