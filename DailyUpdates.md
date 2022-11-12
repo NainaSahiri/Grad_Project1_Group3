@@ -388,6 +388,9 @@ Presented our updates on speaking calculator in Mid2.
 ###### Sindhuja Vilipala
 Worked on midterm presentation and presented updates on our project speaking calculator.
 
+###### Srujan Kumar Reddy Yeruva
+Presented Mid 2 to the class. To change name servers to point to our website
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
