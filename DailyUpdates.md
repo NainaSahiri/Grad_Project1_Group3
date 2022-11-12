@@ -391,6 +391,9 @@ Worked on midterm presentation and presented updates on our project speaking cal
 ###### Srujan Kumar Reddy Yeruva
 Presented Mid 2 to the class. To change name servers to point to our website
 
+###### Naina Sahiri
+Did a presentation on mid2.
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
