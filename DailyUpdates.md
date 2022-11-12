@@ -408,6 +408,9 @@ Worked on onclick functions on updated UI Design.
 ###### Srujan Kumar Reddy Yeruva
 Able to change name servers and point it to our website. To add SSL certificate to the hosting site
 
+###### Naina Sahiri
+exploring amazon RDS features and trying to connect the database.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### November 11th
