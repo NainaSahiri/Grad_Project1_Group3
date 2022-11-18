@@ -438,3 +438,10 @@ Integrated our calculator and voice recognition functionalities.
 
 ###### Anjana Thanguturi
 Need to add some button functionalities and test our project
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### November 18th
+
+###### Anjana Thanguturi
+Done with functionalities. Team members need to integrate DB/ session storage and submit our project.
