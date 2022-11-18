@@ -431,3 +431,10 @@ Looking for alternative to generate SSL certificate since SSL is not free of cos
 
 ###### Anjana Thanguturi
 Integrated our calculator and voice recognition functionalities.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### November 16th
+
+###### Anjana Thanguturi
+Need to add some button functionalities and test our project
