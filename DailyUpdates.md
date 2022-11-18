@@ -425,4 +425,9 @@ Working on speech recognition functionalities on updated UI Design.
 ###### Srujan Kumar Reddy Yeruva
 Looking for alternative to generate SSL certificate since SSL is not free of cost.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
+#### November 14th
+
+###### Anjana Thanguturi
+Integrated our calculator and voice recognition functionalities.
