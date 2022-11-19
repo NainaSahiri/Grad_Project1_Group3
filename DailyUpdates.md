@@ -430,7 +430,12 @@ Looking for alternative to generate SSL certificate since SSL is not free of cos
 #### November 14th
 
 ###### Anjana Thanguturi
-Integrated our calculator and voice recognition functionalities.
+Integrated our calculator and voice recognition functionalities
+
+###### Naina Sahiri
+Explored the feature of Amazon RDS and created a database in amazon RDS
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -440,7 +445,10 @@ Integrated our calculator and voice recognition functionalities.
 Need to add some button functionalities and test our project
 
 ###### Naina Sahiri
-Explored the feature of Amazon RDS and created a database in amazon RDS
+Installed the Mongo DB and tried to integrate the project using node.js.
+
+![Screenshot (350)](https://user-images.githubusercontent.com/98134177/202825308-0a3dff53-e887-4368-86d6-19d3ea20a225.png)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
