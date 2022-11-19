@@ -438,6 +438,9 @@ Explored the feature of Amazon RDS and created a database in amazon RDS
 ###### Sindhuja Vilipala
 Worked on voice integration to our speaking calculator
 
+###### Madhupriya Gundeti
+Successfully installed Amazon Rds.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### November 16th
