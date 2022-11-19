@@ -435,7 +435,8 @@ Integrated our calculator and voice recognition functionalities
 ###### Naina Sahiri
 Explored the feature of Amazon RDS and created a database in amazon RDS
 
-
+###### Sindhuja Vilipala
+Worked on voice integration to our speaking calculator
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
