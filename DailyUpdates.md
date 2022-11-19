@@ -462,3 +462,7 @@ Done with functionalities. Team members need to integrate DB/ session storage an
 
 ###### Naina Sahiri
 As requirement by the client storing the data using javascript session storage. 
+
+###### Sindhuja Vilipala
+Done with UI functionalities and UI. Need to update UI design with some changes.
+
