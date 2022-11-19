@@ -441,6 +441,9 @@ Worked on voice integration to our speaking calculator
 ###### Madhupriya Gundeti
 Successfully installed Amazon Rds.
 
+###### Srujan Kumar Reddy Yeruva
+Looked for alternative to generate SSL certificate since SSL is not free of cost and after discussion with client we are not hosting our application.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### November 16th
