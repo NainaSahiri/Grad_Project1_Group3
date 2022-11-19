@@ -450,6 +450,8 @@ Installed the Mongo DB and tried to integrate the project using node.js.
 
 ![Screenshot (350)](https://user-images.githubusercontent.com/98134177/202825308-0a3dff53-e887-4368-86d6-19d3ea20a225.png)
 
+###### Sindhuja Vilipala
+Worked on some calculator click events of speaking calculator
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
