@@ -469,3 +469,7 @@ As requirement by the client storing the data using javascript session storage.
 ###### Sindhuja Vilipala
 Done with UI functionalities and UI. Need to update UI design with some changes.
 
+###### Madhupriya Gundeti
+Installed the Mongo DB and attempted to use node.js to integrate the project.
+![Screenshot (76)](https://user-images.githubusercontent.com/98134170/202833624-360e05b0-433e-4e84-851b-3ec7ee36c56b.png)
+
