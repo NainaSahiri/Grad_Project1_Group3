@@ -448,3 +448,6 @@ Explored the feature of Amazon RDS and created a database in amazon RDS
 
 ###### Anjana Thanguturi
 Done with functionalities. Team members need to integrate DB/ session storage and submit our project.
+
+###### Naina Sahiri
+As requirement by the client storing the data using javascript session storage. 
