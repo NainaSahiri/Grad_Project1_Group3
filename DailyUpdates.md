@@ -462,6 +462,9 @@ Worked on some calculator click events of speaking calculator
 ###### Madhupriya Gundeti
 Need to install mongo Db and install and integrate the project
 
+###### Srujan Kumar Reddy Yeruva
+Working on UI design and DB integration
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### November 18th
