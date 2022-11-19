@@ -439,6 +439,9 @@ Integrated our calculator and voice recognition functionalities.
 ###### Anjana Thanguturi
 Need to add some button functionalities and test our project
 
+###### Naina Sahiri
+Explored the feature of Amazon RDS and created a database in amazon RDS
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### November 18th
