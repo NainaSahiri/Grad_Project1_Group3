@@ -456,6 +456,9 @@ Installed the Mongo DB and tried to integrate the project using node.js.
 ###### Sindhuja Vilipala
 Worked on some calculator click events of speaking calculator
 
+###### Madhupriya Gundeti
+Need to install mongo Db and install and integrate the project
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### November 18th
