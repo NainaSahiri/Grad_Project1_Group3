@@ -482,3 +482,5 @@ Done with UI functionalities and UI. Need to update UI design with some changes.
 Installed the Mongo DB and attempted to use node.js to integrate the project.
 ![Screenshot (76)](https://user-images.githubusercontent.com/98134170/202833624-360e05b0-433e-4e84-851b-3ec7ee36c56b.png)
 
+###### Srujan Kumar Reddy Yeruva
+Worked on UI design and need to look into session storage for our project
