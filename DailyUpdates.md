@@ -484,3 +484,10 @@ Installed the Mongo DB and attempted to use node.js to integrate the project.
 
 ###### Srujan Kumar Reddy Yeruva
 Worked on UI design and need to look into session storage for our project
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### November 25th
+
+###### Anjana Thanguturi
+Done with functionalities and uploaded our project to github. Team members need to integrate DB/ session storage and also change UI to submit our project.
