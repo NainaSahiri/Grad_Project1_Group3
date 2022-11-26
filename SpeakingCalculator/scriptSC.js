@@ -35,7 +35,66 @@ function solve() {
         solveFunction();
     }
 }
+function solveMath() {
+    let x = document.getElementById("result").value
+    let y = math.evaluate(x)
+    document.getElementById("result").value = y.toFixed(5)
+}
 
+function solveTrigonometric() {
+    let trig = document.getElementById("result").value
+    let degree = trig.match(/(\d+)/)[0]
+    if (trig.startsWith("sin")) {
+        value = math.sin(degree * Math.PI / 180)
+    } else if (trig.startsWith("cos")) {
+        value = math.cos(degree * Math.PI / 180)
+    } else if (trig.startsWith("tan")) {
+        value = math.tan(degree * Math.PI / 180)
+    } else if (trig.startsWith("cosec")) {
+        value = (1 / math.sin(degree * Math.PI / 180))
+    } else if (trig.startsWith("sec")) {
+        value = (1 / math.cos(degree * Math.PI / 180))
+    } else if (trig.startsWith("cot")) {
+        value = (1 / math.tan(degree * Math.PI / 180))
+    } else if (trig.startsWith("sinh")) {
+        value = math.sinh(degree * Math.PI / 180)
+    } else if (trig.startsWith("cosh")) {
+        value = math.cosh(degree * Math.PI / 180)
+    } else if (trig.startsWith("cosech")) {
+        value = (1 / math.sinh(degree * Math.PI / 180))
+    } else if (trig.startsWith("sech")) {
+        value = (1 / math.cosh(degree * Math.PI / 180))
+    }
+    document.getElementById("result").value = value.toFixed(5)
+}
+
+function clr() {
+    document.getElementById("result").value = ""
+}
+
+function backspace() {
+    let result = document.getElementById("result").value;
+    document.getElementById("result").value = result.substring(0, result.length - 1);
+}
+
+function solveFunction() {
+    let fun = document.getElementById("result").value
+    console.log("inside function")
+    let result = ""
+    let degree = fun.match(/(\d+)/)[0]
+    if (fun.startsWith("log")) {
+        result = Math.log10(degree);
+    } else if (fun.startsWith("ln")) {
+        result = Math.log(degree)
+    } else if (fun.startsWith("cbrt")) {
+        result = Math.cbrt(degree)
+    } else if (fun.startsWith("sqrt")) {
+        result = Math.sqrt(degree)
+    } else if (fun.includes("pi")) {
+        result = degree * Math.PI
+    }
+    document.getElementById("result").value = result.toFixed(5)
+}
 function speechRecognitionFunction() {
     console.log("into the function")
     var SpeechRecognition = SpeechRecognition || webkitSpeechRecognition;
