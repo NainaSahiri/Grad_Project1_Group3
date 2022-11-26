@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/10.6.4/math.js"
+        integrity="sha512-BbVEDjbqdN3Eow8+empLMrJlxXRj5nEitiCAK5A1pUr66+jLVejo3PmjIaucRnjlB0P9R3rBUs3g5jXc8ti+fQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/10.6.4/math.min.js"
+        integrity="sha512-iphNRh6dPbeuPGIrQbCdbBF/qcqadKWLa35YPVfMZMHBSI6PLJh1om2xCTWhpVpmUyb4IvVS9iYnnYMkleVXLA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="style.css">
+    <script src="scriptSC.js"></script>
+</head>
+
+<body>
+    <table id="calcu">
+        <tr>
+            <td colspan="7"><input type="text" id="result"></td>
+            <td><button id="backspace" class="btn" onclick="backspace()"><svg xmlns="http://www.w3.org/2000/svg" width="30" height="20"
+                        fill="currentColor" class="bi bi-backspace" viewBox="0 0 16 16">
+                        <path
+                            d="M5.83 5.146a.5.5 0 0 0 0 .708L7.975 8l-2.147 2.146a.5.5 0 0 0 .707.708l2.147-2.147 2.146 2.147a.5.5 0 0 0 .707-.708L9.39 8l2.146-2.146a.5.5 0 0 0-.707-.708L8.683 7.293 6.536 5.146a.5.5 0 0 0-.707 0z" />
+                        <path
+                            d="M13.683 1a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2h-7.08a2 2 0 0 1-1.519-.698L.241 8.65a1 1 0 0 1 0-1.302L5.084 1.7A2 2 0 0 1 6.603 1h7.08zm-7.08 1a1 1 0 0 0-.76.35L1 8l4.844 5.65a1 1 0 0 0 .759.35h7.08a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1h-7.08z" />
+                    </svg></button></td>
+            <td><button id="input" class="btn" onclick="speechRecognitionFunction()"><i
+                        class="fa fa-microphone"></i></button></td>
+        </tr>
+        <tr>
+            <td><input type="button" value="7" onclick="dis('7')" onkeydown="myMathFunction(event)"> </td>
+            <td><input type="button" value="8" onclick="dis('8')" onkeydown="myMathFunction(event)"> </td>
+            <td><input type="button" value="9" onclick="dis('9')" onkeydown="myMathFunction(event)"> </td>
+            <td><input type="button" value="/" onclick="dis('/')" onkeydown="myMathFunction(event)"> </td>
+            <td><input type="button" value="sin" onclick="dis('sin')" onkeydown="myTrigFunction(event)"> </td>
+            <td><input type="button" value="cos" onclick="dis('cos')" onkeydown="myTrigFunction(event)"> </td>
+            <td><input type="button" value="cosec" onclick="dis('cosec')" onkeydown="myTrigFunction(event)"> </td>
+            <td><input type="button" value="sec" onclick="dis('sec')" onkeydown="myTrigFunction(event)"> </td>
+            <td><input type="button" value="AC" onclick="clr()" /> </td>
+        </tr>
+        <tr>
+            <td><input type="button" value="4" onclick="dis('4')" onkeydown="myMathFunction(event)"> </td>
+            <td><input type="button" value="5" onclick="dis('5')" onkeydown="myMathFunction(event)"> </td>
+            <td><input type="button" value="6" onclick="dis('6')" onkeydown="myMathFunction(event)"> </td>
+            <td><input type="button" value="*" onclick="dis('*')" onkeydown="myMathFunction(event)"> </td>
+            <td><input type="button" value="tan" onclick="dis('tan')" onkeydown="myTrigFunction(event)"> </td>
+            <td><input type="button" value="cot" onclick="dis('cot')" onkeydown="myTrigFunction(event)"> </td>
+            <td><input type="button" value="sinh" onclick="dis('sinh')" onkeydown="myTrigFunction(event)"> </td>
+            <td><input type="button" value="cosech" onclick="dis('cosech')" onkeydown="myTrigFunction(event)"> </td>
+            <td><input type="button" value="cbrt" onkeydown="myFunction(event)"> </td>
+        </tr>
+        <tr>
+            <td><input type="button" value="1" onclick="dis('1')" onkeydown="myMathFunction(event)"> </td>
+            <td><input type="button" value="2" onclick="dis('2')" onkeydown="myMathFunction(event)"> </td>
+            <td><input type="button" value="3" onclick="dis('3')" onkeydown="myMathFunction(event)"> </td>
+            <td><input type="button" value="-" onclick="dis('-')" onkeydown="myMathFunction(event)"> </td>
+            <td><input type="button" value="cosh" onclick="dis('cosh')" onkeydown="myTrigFunction(event)"> </td>
+            <td><input type="button" value="sech" onclick="dis('sech')" onkeydown="myTrigFunction(event)"> </td>
+            <td><input type="button" value="log" onclick="dis('log')" onkeydown="myFunction(event)"> </td>
+            <td><input type="button" value="ln" onclick="dis('ln')" onkeydown="myFunction(event)"> </td>
+            <td><input type="button" value="^" onclick="dis('^')" onkeydown="myFunction(event)"> </td>
+        </tr>
+        <tr>
+            <td><input type="button" value="0" onclick="dis('0')" onkeydown="myFunction(event)"> </td>
+            <td><input type="button" value="." onclick="dis('.')" onkeydown="myFunction(event)"> </td>
+            <td><input type="button" value="=" onclick="solve()"> </td>
+
+            <td><input type="button" value="+" onclick="dis('+')" onkeydown="myFunction(event)"> </td>
+            <td><input type="button" value="pi" onclick="dis('pi')" onkeydown="myFunction(event)"> </td>
+            <td><input type="button" value="e^" onclick="dis('e^')" onkeydown="myFunction(event)"> </td>
+            <td><input type="button" value="sqrt" onclick="dis('sqrt')" onkeydown="myFunction(event)"> </td>
+            <td><input type="button" value="10^" onclick="dis('10^')" onkeydown="myFunction(event)"> </td>
+        </tr>
+    </table>
+</body>
+
+</html>
