@@ -519,6 +519,9 @@ learned and explored the features of Javascript session storage.
 ###### Madhupriya Gundeti
 Need to implement session storage with javascript. Need to fix the issue as speech recognition is not functioning with session storage.
 
+###### Naina Sahiri
+Implemented Javascript session storage and need to clear the issues while using the javascript session storage.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### November 25th
@@ -534,6 +537,9 @@ Need to integrate database with session storage.
 
 ###### Sindhuja Vilipala
 Done with Voice recognition and need to help our team mates for integrating DB.
+
+###### Naina Sahiri
+Tried to solve issues as speech recognition is not working when implementing Javascript session storage
 
 
 
