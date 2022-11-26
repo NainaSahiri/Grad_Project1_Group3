@@ -507,3 +507,6 @@ https://speakingcalculator.s3.us-west-2.amazonaws.com/index.html <br>
 
 ###### Anjana Thanguturi
 Done with functionalities and uploaded our project to github. Team members need to integrate DB/ session storage and also change UI to submit our project.
+
+###### Srujan Kumar Reddy Yeruva
+Need to help our team mates for integrating DB
