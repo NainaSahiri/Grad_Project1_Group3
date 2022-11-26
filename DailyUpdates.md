@@ -487,6 +487,13 @@ Worked on UI design and need to look into session storage for our project
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
+#### November 18th
+
+###### Srujan Kumar Reddy Yeruva
+Working on UI and DB integration and trying to host our project in AWS
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
 #### November 25th
 
 ###### Anjana Thanguturi
