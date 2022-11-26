@@ -513,3 +513,9 @@ Need to help our team mates for integrating DB
 
 ###### Madhupriya Gundeti
 Need to integrate database with session storage.
+
+###### Sindhuja Vilipala
+Done with Voice recognition and need to help our team mates for integrating DB.
+
+
+
