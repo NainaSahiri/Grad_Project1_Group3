@@ -148,3 +148,19 @@ $("#list").click(function(){
 // 		})
 // 	})
 
+------------------------------------------------------------------------------------------------------------------
+Code used to store the data using Javascript session storage
+<script type="text/javascript"> 
+function savedata() { 
+    var speak = document.getElementById('txtInput');
+    var talk = document.getElementById('message');
+
+    const webSpeech ={
+        speak:speak,
+        talk:talk,
+    }
+
+    window.sessionStorage.setItem('weSpeech',JSON.stringify(webSpeech));
+}
+</script>
+
