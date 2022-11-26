@@ -510,6 +510,9 @@ https://speakingcalculator.s3.us-west-2.amazonaws.com/index.html <br>
 ###### Madhupriya Gundeti
 Planning to integrate database with session storage as mongodb is not functioning for javascript.
 
+###### Naina Sahiri
+learned and explored the features of Javascript session storage.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### November 23rd
