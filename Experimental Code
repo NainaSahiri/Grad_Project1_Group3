@@ -164,3 +164,14 @@ function savedata() {
 }
 </script>
 
+------------------------------------------------------------------------------------------------------------------
+Code used to store the data using Javascript session storage
+<button id='btnSpeak' onsubmit="savedata()">Speak to Text</button>
+    <button id='btnTalk' onsubmit="savedata()">Text to Speech</button
+const webSpeech ={
+        speak:speak,
+        talk:talk,
+    }
+
+    window.sessionStorage.setItem('weSpeech',JSON.stringify(webSpeech));
+}
