@@ -501,6 +501,16 @@ Hosted our application in AWS S3 <br>
 https://speakingcalculator.s3.us-west-2.amazonaws.com/index.html <br>
 [Hosted page](https://github.com/NainaSahiri/Grad_Project1_Group3/blob/main/AWS%20S3.JPG) <br>
 
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### November 21st
+###### Madhupriya Gundeti
+Planning to integrate database with session storage as mongodb is not functioning for javascript.
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### November 25th
