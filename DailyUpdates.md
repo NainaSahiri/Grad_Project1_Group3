@@ -510,6 +510,11 @@ https://speakingcalculator.s3.us-west-2.amazonaws.com/index.html <br>
 ###### Madhupriya Gundeti
 Planning to integrate database with session storage as mongodb is not functioning for javascript.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### November 23rd
+###### Madhupriya Gundeti
+Need to implement session storage with javascript. Need to fix the issue as speech recognition is not functioning with session storage.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
