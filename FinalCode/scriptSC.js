@@ -327,13 +327,13 @@ function storage() {
 }
 
 function printStored(){
-    let values = sessionStorage.getItem('expression') + " :: " + sessionStorage.getItem('timeStamp');
-    if (!values.includes("null")) {
-        values = values +
-            sessionStorage.getItem('expression') + " :: " + sessionStorage.getItem('timeStamp')
-    } else {
-        values = sessionStorage.getItem('expression') + " :: " + sessionStorage.getItem('timeStamp')
-    }
-    document.getElementById("session").textContent = values;
+    // let values = sessionStorage.getItem('expression') + " :: " + sessionStorage.getItem('timeStamp');
+    // if (!values.includes("null")) {
+    //     values = values +
+    //         sessionStorage.getItem('expression') + " :: " + sessionStorage.getItem('timeStamp')
+    // } else {
+    //     values = sessionStorage.getItem('expression') + " :: " + sessionStorage.getItem('timeStamp')
+    // }
+    document.getElementById("session").textContent = sessionStorage.getItem('expression') + " :: " + sessionStorage.getItem('timeStamp');
 }
 
